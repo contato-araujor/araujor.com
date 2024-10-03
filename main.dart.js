@@ -62008,7 +62008,7 @@ A.X1.prototype={
 Q_(a){$.a8g().n(0,this,a)}}
 A.l0.prototype={
 ai(){var s=t.s
-return new A.H9(A.b(["Inshape: Controle seu IMC, TMB e d\xe9ficit cal\xf3rico para emagrecer com sa\xfade!","Descri\xe7\xe3o do Aplicativo 2"],s),A.b(["assets/images/inshape.png","assets/images/taskify.png"],s),A.b(["https://play.google.com/store/apps/details?id=com.example.app1","https://play.google.com/store/apps/details?id=com.example.app2"],s))}}
+return new A.H9(A.b(["Inshape: Controle seu IMC, TMB e d\xe9ficit cal\xf3rico para emagrecer com sa\xfade!","Descri\xe7\xe3o do Aplicativo 2"],s),A.b(["assets/images/inshape.png","assets/images/taskify.png"],s),A.b(["https://play.google.com/store/apps/details?id=com.araujor.inshape","https://play.google.com/store/apps/details?id=com.example.app2"],s))}}
 A.H9.prototype={
 ni(a){return this.Wm(a)},
 Wm(a){var s=0,r=A.P(t.H)
