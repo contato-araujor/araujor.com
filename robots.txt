@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Allow: /app-ads.txt
+
+Sitemap: https://www.seudominio.com/sitemap.xml
